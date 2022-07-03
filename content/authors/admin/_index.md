@@ -1,49 +1,46 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+bio: My goal is to combine strong points of information technology and biotechnology to transform arid soil to healthy soil, to combat desertification by researching novel pathways that can transform sand to soil quickly and to encourage the movement planting trees along river bank in urban area.
+# education:
+#   courses:
+#   - course: PhD in Artificial Intelligence
+#     institution: Stanford University
+#     year: 2012
+#   - course: MEng in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2009
+#   - course: BSc in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2008
+email: "tanduc307@gmail.com"
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data science
+- City farming
+- Biochar application
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Nông nghiệp đô thị
+  url: https://www.nongnghiepdothi.org/
+# role: Professor of Artificial Intelligence
 social:
-- icon: envelope
-  icon_pack: fas
-  link: /#contact
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+# - icon: envelope
+#   icon_pack: fas
+#   link: /#contact
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=vi&user=CflB6CEAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/tanduc307
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/tan-duc-nguyen-4343a3154/
 superuser: true
-title: Nelson Bighetti
+title: Duc Nguyen
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Duc Nguyen
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
