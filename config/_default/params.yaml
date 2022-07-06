@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: earth
+  theme_night: earth
   font: minimal
   font_size: L
 
@@ -62,9 +62,7 @@ locale:
 features:
   syntax_highlighter:
     enable: true
-    extra_languages:
-      - r
-      - latex
+    theme: "dracula"    
   math:
     enable: false
   privacy_pack:
